@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Latihan 2a<Himansyah_Gani></Himansyah_Gani></title>
+        <title>Tugas GITHUB1<Eva_Bambang></Eva_Bambang></title>
     </head>
     <body>
         <table width="30%" border="1" cellspacing="10" cellpadding="15">
@@ -12,6 +12,11 @@
             <td>1</td>
             <td>Nim :</td>
             <td>531419064</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Kelas :</td>
+            <td>C</td>
         </tr>
         <tr>
             <td>2</td>
@@ -29,9 +34,6 @@
         <tr>
             <td rowspan="2">4</td>
             <td rowspan="2">Telepon :</td>
-            <td>082271551998</td>
-        </tr>
-        <tr>
             <td>082271551998</td>
         </tr>
         <tr>
