@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Latihan 2a<Himansyah_Gani></Himansyah_Gani></title>
+    </head>
+    <body>
+        <table width="30%" border="1" cellspacing="10" cellpadding="15">
+            <tr>
+                <td ALIGN="CENTER" colspan="3">BIODATA MAHASISWA</td>
+            </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Nim :</td>
+            <td>531419064</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Nama :</td>
+            <td>Evani Haryanti Bambang</td>
+        </tr>
+        <tr>
+            <td rowspan="2">3</td>
+            <td>Alamat :</td>
+            <td rowspan="2">Jln.Hulonthalangi</td>
+        </tr>
+        <tr>
+            <td>Alamat :</td>
+        </tr>
+        <tr>
+            <td rowspan="2">4</td>
+            <td rowspan="2">Telepon :</td>
+            <td>082271551998</td>
+        </tr>
+        <tr>
+            <td>082271551998</td>
+        </tr>
+        <tr>
+                <td ALIGN="CENTER" colspan="3">TERIMAKASIH</td>
+            </tr>
+        </table>
+        <a href="Index_Evani Haryanti Bambang.html">Index Latihan2a</a>
+        </body>
+    </html>
