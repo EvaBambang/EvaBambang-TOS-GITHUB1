@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <title>FILM</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" cellpadding="25" bgcolor="#f2e5d9">
+        <tr>
+            <td colspan="3" align="center" bgcolor="#d2a379"><b>DAFTAR FILM</b></td>
+        </tr>
+        <tr bgcolor="#e6cab3">
+            <td align="center"><b>Judul</b></td>
+            <td align="center"><b>Jam Tayang</b></td>
+            <td align="center"><b>Genre</b></td>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center"><img src="99 CAHAYA.jpg" width="100"></td>
+            <td align="center">10.00</td>
+            <td rowspan="3" align="center">Drama</td>
+        </tr>
+        <tr>
+            <td align="center">16.00</td>
+        </tr>
+        <tr>
+            <td align="center">21.00</td>
+        </tr>
+    </table>
+    <a href="Index_Evani Haryanti Bambang.html">Index Tugas2b</a>
+</body>
+</html>
